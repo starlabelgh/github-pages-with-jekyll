@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Moses Samnahyia UI/UX Designer
+author: starlabelgh
+email: hello@starlabel.co
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am Moses Samanhyia, a UI/UX Designer and Front-End Developer.
+  I have passion for developing user-centered user interfaces that gives the best user experience.
+  Let's talk about system designs and best practices.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+starlabelgh: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+starlabelgh:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
